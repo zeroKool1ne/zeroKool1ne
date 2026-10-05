@@ -8,6 +8,9 @@ aiming at the role where both halves count.
 **What I actually do:** take something technical, get it running, and explain it
 to the person who has to approve it.
 
+**Looking for:** a Solutions Engineer role in Berlin — hybrid or remote, and I
+genuinely enjoy the customer-facing half: demos, discovery, being in the room.
+
 ---
 
 #### Worth a look
