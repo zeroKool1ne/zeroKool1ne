@@ -3,10 +3,10 @@ Software Developer (IHK) | 4 years selling SaaS | 3+ years technical trainer
 
 **About me:** Equally at home in a terminal and in front of a room: I nerd out on how things work, then make people get it.
 
-**What I actually do:** take something technical, get it running, and explain it
+**What I actually do:** Take something technical, get it running, and explain it
 to the person who has to approve it.
 
-**Looking for:** a Solutions Engineer role in Berlin. I genuinely enjoy the customer-facing half: demos, discovery, being in the room.
+**Looking for:** A Solutions Engineer role in Berlin. I genuinely enjoy the customer-facing half: demos, discovery, being in the room.
 
 ---
 
