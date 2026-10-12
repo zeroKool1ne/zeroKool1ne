@@ -1,8 +1,6 @@
 ### Daniel — Berlin
 
-5+ yrs delevop software  
-4+ yrs selling SaaS  
-3+ yrs technical trainer
+5+ yrs delevop software | 4+ yrs selling SaaS | 3+ yrs technical trainer
 
 **What I actually do:** take something technical, get it running, and explain it
 to the person who has to approve it.
