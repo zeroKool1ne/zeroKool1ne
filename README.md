@@ -1,7 +1,7 @@
 ### Daniel — Berlin
 
 I spent four years selling software and the best part was always the same: the
-moment someone understood why a thing works. Before that I trained as a software
+moment someone understood why a thing works and how he benefits from it. Before that I trained as a software
 developer (IHK). Now I build the systems instead of pitching them — and I am
 aiming at the role where both halves count.
 
